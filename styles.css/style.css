@@ -18,9 +18,8 @@ html {
 
 body {
     background: #f0f2f5;
-    font-family: 'Poppins', sans-serif;
+    font-family:'Poppins', sans-serif
 }
-
 
 .sr-only {
     position: absolute;
@@ -29,7 +28,7 @@ body {
     padding: 0;
     margin: -1px;
     overflow: hidden;
-    clip: rect(0,0,0,0);
+    clip: rect(0, 0, 0, 0);
     white-space: nowrap;
     border-width: 0;
 }
@@ -39,7 +38,7 @@ body {
     margin: auto;
 }
 
-/* Titles =============== */
+/* Titles ===================== */
 h2 {
     margin-top: 3.2rem;
     margin-bottom: 0.8rem;
@@ -48,10 +47,9 @@ h2 {
     font-weight: normal;
 }
 
-/* lINKS E BUTTONS ==============*/
-
+/* Links & Buttons ===================== */
 a {
-    color: var (--gren);
+    color: var(--green);
     text-decoration: none;
 }
 
@@ -59,7 +57,7 @@ a:hover {
     color: var(--light-green);
 }
 
-button{
+button {
     width: 100%;
     height: 50px;
 
@@ -74,6 +72,7 @@ button{
 
     cursor: pointer;
 }
+
 button:hover {
     background: var(--light-green);
 }
@@ -96,6 +95,7 @@ button:hover {
 
     opacity: 0.6;
 }
+
 .button.cancel:hover {
     opacity: 1;
 }
@@ -267,7 +267,7 @@ input {
     margin-top: 0.8rem;
 }
 
-.input-group small{
+.input-group .help{
     opacity: 0.4;
 }
 
@@ -281,6 +281,7 @@ input {
 .input-group.actions button {
     width: 48%;
 }
+
 
 /* Footer ===================== */
 footer {
