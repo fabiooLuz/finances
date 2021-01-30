@@ -8,20 +8,16 @@ Projeto de aplicação financeira “dev.finance$”, desenvolvido durante a Mar
 
 ### Proposta:
 
-[] Desenvolver mentalidade Dev
-
-[] Praticar as tecnologias do Discover
-
-[] Organização e estudo
-
-[] Bases necessárias para tecnologias estudadas
+- Desenvolver mentalidade Dev
+- Praticar as tecnologias do Discover
+- Organização e estudo
+- Bases necessárias para tecnologias estudadas
 
 
 
 ## Bora codar
 
 - Estrutura da aplicação com HTML
-
 - Estilização com CSS
 - Estrutura inteligente com JavaScript ,  salvando os dados no localStorage.
 
